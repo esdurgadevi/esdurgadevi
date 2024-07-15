@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Fullstack Development**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **Tech**
-- 📫 How to reach me:
+- 📫 How to reach me: <br />
  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+ ![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
